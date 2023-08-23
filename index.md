@@ -2,3 +2,7 @@
 ### This is another test comment
 
 ![Bliss Wallpaper](https://i.imgur.com/VvNhMb0.jpg)
+
+``` java
+double burgerCount = 58 * myDiet;
+```
