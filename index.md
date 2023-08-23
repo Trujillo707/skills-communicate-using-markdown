@@ -6,3 +6,7 @@
 ``` java
 double burgerCount = 58 * myDiet;
 ```
+
+- [ ] Do the First Day GitHub tutorials
+- [ ] Do the First Week tutorials
+- [ ] Submit screenshots to Canvas for my lab
